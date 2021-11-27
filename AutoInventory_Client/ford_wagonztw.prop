@@ -1,0 +1,38 @@
+Make=Ford
+Model=WagonZTW
+BasePrice=18445
+OptionSetsTotalSize=5
+Option1:Color
+Option1Size:3
+Option1_1_name:Fort Knox Gold Clearcoat Metallic
+Option1_1_price:0
+Option1_2_name:Liquid Grey Clearcoat Metallic
+Option1_2_price:0
+Option1_3_name:Infra-Red Clearcoat
+Option1_3_price:0
+Option2:Transmission
+Option2Size:2
+Option2_1_name:automatic
+Option2_1_price:0
+Option2_2_name:standard
+Option2_2_price:-815
+Option3:Brakes/Traction Control
+Option3Size:3
+Option3_1_name:standard
+Option3_1_price:0
+Option3_2_name:ABS
+Option3_2_price:400
+Option3_3_name:ABS with Advance Traction
+Option3_3_price:1625
+Option4:Side Impact Air Bags
+Option4Size:2
+Option4_1_name:none
+Option4_1_price:0
+Option4_2_name:selected
+Option4_2_price:350
+Option5:Power Moonroof
+Option5Size:2
+Option5_1_name:none
+Option5_1_price:0
+Option5_2_name:selected
+Option5_2_price:595

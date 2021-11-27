@@ -1,0 +1,13 @@
+Make=Ford
+Model=WagonZTW
+OptionSetsTotalSize=5
+Option1:Color
+Option1_choice:Infra-Red Clearcoat
+Option2:Transmission
+Option2_choice:automatic
+Option3:Brakes/Traction Control
+Option3_choice:standard
+Option4:Side Impact Air Bags
+Option4_choice:selected
+Option5:Power Moonroof
+Option5_choice:selected

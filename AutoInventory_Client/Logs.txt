@@ -1,0 +1,49 @@
+
+~~~~~~~~~~~
+Ford WagonZTW
+Base price is $17445.00
+Your Option Choices for Ford WagonZTW:
+Color:Ultra-Violet Dirtycoat,0.0
+Transmission:Manual,-915.0
+Brakes/Traction Control:ABS with Advance Trac,1525.0
+Side Impact Air Bags:If selected,450.0
+Power Moonroof:If none,0.0
+Total cost - $18505.00
+~~~~~~~~~~~
+Ford Focus
+Base price is $18445.00
+Your Option Choices for Ford Focus:
+Color:Sunlight Yellow Overdrive Metallic,0.0
+Transmission:Automatic,0.0
+Brakes/Traction Control:ABS,400.0
+Side Impact Air Bags:If none,0.0
+Power Moonroof:If none,0.0
+Total cost - $18845.00
+~~~~~~~~~~~
+Ford ZagoonPro
+Base price is $39000.00
+Your Option Choices for Ford ZagoonPro:
+Color:Metallic,300.0
+Transmission:Automatic,0.0
+Brakes/Traction Control:ABS,350.0
+Power Moonroof:Selected,690.0
+Total cost - $40340.00
+
+Updating Options .......
+
+Starting Thread 1
+Ending Thread 1
+
+Starting Thread 1
+Ending Thread 1
+
+~~~~~~~~~~~
+Ford WagonZTW
+Base price is $17445.00
+Your Option Choices for Ford WagonZTW:
+Color:Ultra-Violet Dirtycoat,0.0
+Transmission:Manual,-915.0
+Brakes/Traction Control:ABS with Advance Trac,1525.0
+Side Impact Air Bags:If selected,450.0
+Power Moonroof:If selected,699.0
+Total cost - $19204.00
